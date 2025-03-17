@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source AI, biotech, meaningful work.
 - 📫 How to reach me you can email deciduusleaf@gmail.com
 - 😄 Pronouns: he/him/they
-- ⚡ Fun fact: A female clownfish can lay 100~200 eggs every 8~9 days.
+- ⚡ Fun fact: A female clownfish can lay 100-200 eggs every 8-9 days.
 
 <!---
 deciduus/deciduus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
