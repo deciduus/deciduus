@@ -1,4 +1,4 @@
-# Hi, I'm Landon (@deciduus)
+# Hi, I'm Landon
 
 I build AI tools and contribute to open-source agent projects. I'm currently building [Ergod](https://ergod.dev), an AI agent for research, coding, and shared work in the browser, Discord, and Telegram.
 
